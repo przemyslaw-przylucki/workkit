@@ -6,7 +6,7 @@
 
         <title>Laravel</title>
 
-        <link rel="stylesheet" href="{{ asset('css/app.css') }}">
+        <link rel="stylesheet" href="{{ mix('css/app.css') }}">
     </head>
     <body>
         <div class="bg-purple-800 uppercase py-3 px-2 text-white">
